@@ -1,0 +1,57 @@
+.title {
+    font-size: 35px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    border: 20px solid rgb(0, 0, 0);
+}
+
+mark { 
+    background-color: rgb(238, 255, 0);
+    color: black;
+}
+
+body{
+    background-color: rgb(75, 75, 75);
+    background-image: url("cam.jpg");
+    background-repeat: repeat;
+    height: 100vh;
+    background-position: center;
+}
+
+.p1 {
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#p2 {
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#p2 mark {
+    background-color: rgb(255, 255, 255);
+    color: black; 
+}
+
+p.solid {
+    border-style: solid;
+}
+
+h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+figcaption, ul, h3{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
